@@ -1,0 +1,11 @@
+E:\GitProjects\__Github\OrderManagement\Domain\bin\Debug\net8.0\Domain.deps.json
+E:\GitProjects\__Github\OrderManagement\Domain\bin\Debug\net8.0\Domain.dll
+E:\GitProjects\__Github\OrderManagement\Domain\bin\Debug\net8.0\Domain.pdb
+E:\GitProjects\__Github\OrderManagement\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitProjects\__Github\OrderManagement\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+E:\GitProjects\__Github\OrderManagement\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+E:\GitProjects\__Github\OrderManagement\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+E:\GitProjects\__Github\OrderManagement\Domain\obj\Debug\net8.0\Domain.dll
+E:\GitProjects\__Github\OrderManagement\Domain\obj\Debug\net8.0\refint\Domain.dll
+E:\GitProjects\__Github\OrderManagement\Domain\obj\Debug\net8.0\Domain.pdb
+E:\GitProjects\__Github\OrderManagement\Domain\obj\Debug\net8.0\ref\Domain.dll
