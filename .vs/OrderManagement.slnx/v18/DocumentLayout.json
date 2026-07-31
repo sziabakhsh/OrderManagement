@@ -51,8 +51,7 @@
               "RelativeToolTip": "Application\\Reports\\ReportService.cs",
               "ViewState": "AgIAADEAAAAAAAAAAAAAAD4AAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-31T19:14:33.162Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-31T19:14:33.162Z"
             },
             {
               "$type": "Document",
@@ -64,8 +63,7 @@
               "RelativeToolTip": "Domain\\Entities\\Order.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAowBQAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-31T19:14:28.56Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-31T19:14:28.56Z"
             },
             {
               "$type": "Document",
@@ -77,8 +75,7 @@
               "RelativeToolTip": "Domain\\Entities\\OrderItem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-31T19:14:26.368Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-31T19:14:26.368Z"
             }
           ]
         }

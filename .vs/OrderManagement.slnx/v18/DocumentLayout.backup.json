@@ -3,72 +3,20 @@
   "WorkspaceRootPath": "E:\\GitProjects\\__Github\\OrderManagement\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|e:\\gitprojects\\__github\\ordermanagement\\infrastructure\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|e:\\gitprojects\\__github\\ordermanagement\\application\\common\\interfaces\\iappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\common\\interfaces\\iappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|e:\\gitprojects\\__github\\ordermanagement\\application\\common\\interfaces\\ireportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\common\\interfaces\\ireportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|e:\\gitprojects\\__github\\ordermanagement\\application\\dtos\\paginatedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\dtos\\paginatedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|e:\\gitprojects\\__github\\ordermanagement\\application\\dtos\\customerreportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\dtos\\customerreportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|e:\\gitprojects\\__github\\ordermanagement\\infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E56B3E2C-E49C-AA8B-FC33-7582BEADE233}|OrderManagement\\OrderManagement.csproj|e:\\gitprojects\\__github\\ordermanagement\\ordermanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E56B3E2C-E49C-AA8B-FC33-7582BEADE233}|OrderManagement\\OrderManagement.csproj|solutionrelative:ordermanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|e:\\gitprojects\\__github\\ordermanagement\\infrastructure\\persistence\\configurations\\orderconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\persistence\\configurations\\orderconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|e:\\gitprojects\\__github\\ordermanagement\\infrastructure\\persistence\\configurations\\orderitemconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\persistence\\configurations\\orderitemconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|e:\\gitprojects\\__github\\ordermanagement\\infrastructure\\persistence\\configurations\\customerconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\persistence\\configurations\\customerconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|e:\\gitprojects\\__github\\ordermanagement\\infrastructure\\persistence\\configurations\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\persistence\\configurations\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|e:\\gitprojects\\__github\\ordermanagement\\domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|e:\\gitprojects\\__github\\ordermanagement\\domain\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|e:\\gitprojects\\__github\\ordermanagement\\application\\reports\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\reports\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|e:\\gitprojects\\__github\\ordermanagement\\domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|e:\\gitprojects\\__github\\ordermanagement\\domain\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E56B3E2C-E49C-AA8B-FC33-7582BEADE233}|OrderManagement\\OrderManagement.csproj|e:\\gitprojects\\__github\\ordermanagement\\ordermanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{E56B3E2C-E49C-AA8B-FC33-7582BEADE233}|OrderManagement\\OrderManagement.csproj|solutionrelative:ordermanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|e:\\gitprojects\\__github\\ordermanagement\\domain\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|e:\\gitprojects\\__github\\ordermanagement\\domain\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -78,214 +26,59 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IReportService.cs",
-              "DocumentMoniker": "E:\\GitProjects\\__Github\\OrderManagement\\Application\\Common\\Interfaces\\IReportService.cs",
-              "RelativeDocumentMoniker": "Application\\Common\\Interfaces\\IReportService.cs",
-              "ToolTip": "E:\\GitProjects\\__Github\\OrderManagement\\Application\\Common\\Interfaces\\IReportService.cs",
-              "RelativeToolTip": "Application\\Common\\Interfaces\\IReportService.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAABSAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-31T04:16:55.599Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "PaginatedResult.cs",
               "DocumentMoniker": "E:\\GitProjects\\__Github\\OrderManagement\\Application\\DTOs\\PaginatedResult.cs",
               "RelativeDocumentMoniker": "Application\\DTOs\\PaginatedResult.cs",
               "ToolTip": "E:\\GitProjects\\__Github\\OrderManagement\\Application\\DTOs\\PaginatedResult.cs",
               "RelativeToolTip": "Application\\DTOs\\PaginatedResult.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-31T04:14:11.253Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CustomerReportDto.cs",
-              "DocumentMoniker": "E:\\GitProjects\\__Github\\OrderManagement\\Application\\DTOs\\CustomerReportDto.cs",
-              "RelativeDocumentMoniker": "Application\\DTOs\\CustomerReportDto.cs",
-              "ToolTip": "E:\\GitProjects\\__Github\\OrderManagement\\Application\\DTOs\\CustomerReportDto.cs",
-              "RelativeToolTip": "Application\\DTOs\\CustomerReportDto.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAowA0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-31T04:12:39.119Z"
+              "WhenOpened": "2026-07-31T19:30:14.945Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "IAppDbContext.cs",
-              "DocumentMoniker": "E:\\GitProjects\\__Github\\OrderManagement\\Application\\Common\\Interfaces\\IAppDbContext.cs",
-              "RelativeDocumentMoniker": "Application\\Common\\Interfaces\\IAppDbContext.cs",
-              "ToolTip": "E:\\GitProjects\\__Github\\OrderManagement\\Application\\Common\\Interfaces\\IAppDbContext.cs",
-              "RelativeToolTip": "Application\\Common\\Interfaces\\IAppDbContext.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
+              "Title": "ReportService.cs",
+              "DocumentMoniker": "E:\\GitProjects\\__Github\\OrderManagement\\Application\\Reports\\ReportService.cs",
+              "RelativeDocumentMoniker": "Application\\Reports\\ReportService.cs",
+              "ToolTip": "E:\\GitProjects\\__Github\\OrderManagement\\Application\\Reports\\ReportService.cs",
+              "RelativeToolTip": "Application\\Reports\\ReportService.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAAD4AAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-30T22:15:50.383Z",
+              "WhenOpened": "2026-07-31T19:14:33.162Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "E:\\GitProjects\\__Github\\OrderManagement\\Infrastructure\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\AppDbContext.cs",
-              "ToolTip": "E:\\GitProjects\\__Github\\OrderManagement\\Infrastructure\\AppDbContext.cs",
-              "RelativeToolTip": "Infrastructure\\AppDbContext.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAwBUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-30T17:27:53.9Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "DependencyInjection.cs",
-              "DocumentMoniker": "E:\\GitProjects\\__Github\\OrderManagement\\Infrastructure\\DependencyInjection.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\DependencyInjection.cs",
-              "ToolTip": "E:\\GitProjects\\__Github\\OrderManagement\\Infrastructure\\DependencyInjection.cs",
-              "RelativeToolTip": "Infrastructure\\DependencyInjection.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAywBcAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-30T22:26:19.743Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\GitProjects\\__Github\\OrderManagement\\OrderManagement\\Program.cs",
-              "RelativeDocumentMoniker": "OrderManagement\\Program.cs",
-              "ToolTip": "E:\\GitProjects\\__Github\\OrderManagement\\OrderManagement\\Program.cs",
-              "RelativeToolTip": "OrderManagement\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-30T22:10:47.477Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "OrderConfiguration.cs",
-              "DocumentMoniker": "E:\\GitProjects\\__Github\\OrderManagement\\Infrastructure\\Persistence\\Configurations\\OrderConfiguration.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\Configurations\\OrderConfiguration.cs",
-              "ToolTip": "E:\\GitProjects\\__Github\\OrderManagement\\Infrastructure\\Persistence\\Configurations\\OrderConfiguration.cs",
-              "RelativeToolTip": "Infrastructure\\Persistence\\Configurations\\OrderConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-30T21:58:24.182Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "OrderItemConfiguration.cs",
-              "DocumentMoniker": "E:\\GitProjects\\__Github\\OrderManagement\\Infrastructure\\Persistence\\Configurations\\OrderItemConfiguration.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\Configurations\\OrderItemConfiguration.cs",
-              "ToolTip": "E:\\GitProjects\\__Github\\OrderManagement\\Infrastructure\\Persistence\\Configurations\\OrderItemConfiguration.cs",
-              "RelativeToolTip": "Infrastructure\\Persistence\\Configurations\\OrderItemConfiguration.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-30T21:58:46.265Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "CustomerConfiguration.cs",
-              "DocumentMoniker": "E:\\GitProjects\\__Github\\OrderManagement\\Infrastructure\\Persistence\\Configurations\\CustomerConfiguration.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\Configurations\\CustomerConfiguration.cs",
-              "ToolTip": "E:\\GitProjects\\__Github\\OrderManagement\\Infrastructure\\Persistence\\Configurations\\CustomerConfiguration.cs",
-              "RelativeToolTip": "Infrastructure\\Persistence\\Configurations\\CustomerConfiguration.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-30T21:53:47.476Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ProductConfiguration.cs",
-              "DocumentMoniker": "E:\\GitProjects\\__Github\\OrderManagement\\Infrastructure\\Persistence\\Configurations\\ProductConfiguration.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\Configurations\\ProductConfiguration.cs",
-              "ToolTip": "E:\\GitProjects\\__Github\\OrderManagement\\Infrastructure\\Persistence\\Configurations\\ProductConfiguration.cs",
-              "RelativeToolTip": "Infrastructure\\Persistence\\Configurations\\ProductConfiguration.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAcwBcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-30T21:56:37.563Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Product.cs",
-              "DocumentMoniker": "E:\\GitProjects\\__Github\\OrderManagement\\Domain\\Entities\\Product.cs",
-              "RelativeDocumentMoniker": "Domain\\Entities\\Product.cs",
-              "ToolTip": "E:\\GitProjects\\__Github\\OrderManagement\\Domain\\Entities\\Product.cs",
-              "RelativeToolTip": "Domain\\Entities\\Product.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAABAwBMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-30T17:36:58.603Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "OrderItem.cs",
-              "DocumentMoniker": "E:\\GitProjects\\__Github\\OrderManagement\\Domain\\Entities\\OrderItem.cs",
-              "RelativeDocumentMoniker": "Domain\\Entities\\OrderItem.cs",
-              "ToolTip": "E:\\GitProjects\\__Github\\OrderManagement\\Domain\\Entities\\OrderItem.cs",
-              "RelativeToolTip": "Domain\\Entities\\OrderItem.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAA7wBMAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-30T17:35:57.031Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 2,
               "Title": "Order.cs",
               "DocumentMoniker": "E:\\GitProjects\\__Github\\OrderManagement\\Domain\\Entities\\Order.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\Order.cs",
               "ToolTip": "E:\\GitProjects\\__Github\\OrderManagement\\Domain\\Entities\\Order.cs",
               "RelativeToolTip": "Domain\\Entities\\Order.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAxwBMAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowBQAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-30T17:35:14.454Z"
+              "WhenOpened": "2026-07-31T19:14:28.56Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Customer.cs",
-              "DocumentMoniker": "E:\\GitProjects\\__Github\\OrderManagement\\Domain\\Entities\\Customer.cs",
-              "RelativeDocumentMoniker": "Domain\\Entities\\Customer.cs",
-              "ToolTip": "E:\\GitProjects\\__Github\\OrderManagement\\Domain\\Entities\\Customer.cs",
-              "RelativeToolTip": "Domain\\Entities\\Customer.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAwBAAAAAgAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "E:\\GitProjects\\__Github\\OrderManagement\\Domain\\Entities\\OrderItem.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\OrderItem.cs",
+              "ToolTip": "E:\\GitProjects\\__Github\\OrderManagement\\Domain\\Entities\\OrderItem.cs",
+              "RelativeToolTip": "Domain\\Entities\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-30T17:34:43.256Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "E:\\GitProjects\\__Github\\OrderManagement\\OrderManagement\\appsettings.json",
-              "RelativeDocumentMoniker": "OrderManagement\\appsettings.json",
-              "ToolTip": "E:\\GitProjects\\__Github\\OrderManagement\\OrderManagement\\appsettings.json",
-              "RelativeToolTip": "OrderManagement\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-07-30T17:28:05.322Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "OrderStatus.cs",
-              "DocumentMoniker": "E:\\GitProjects\\__Github\\OrderManagement\\Domain\\Enums\\OrderStatus.cs",
-              "RelativeDocumentMoniker": "Domain\\Enums\\OrderStatus.cs",
-              "ToolTip": "E:\\GitProjects\\__Github\\OrderManagement\\Domain\\Enums\\OrderStatus.cs",
-              "RelativeToolTip": "Domain\\Enums\\OrderStatus.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-30T17:27:02.662Z"
+              "WhenOpened": "2026-07-31T19:14:26.368Z",
+              "EditorCaption": ""
             }
           ]
         }
