@@ -1,6 +1,23 @@
 <Solution>
-  <Project Path="Application/Application.csproj" />
-  <Project Path="Domain/Domain.csproj" />
-  <Project Path="Infrastructure/Infrastructure.csproj" />
-  <Project Path="OrderManagement/OrderManagement.csproj" />
+  <Configurations>
+    <BuildType Name="Debug" />
+    <BuildType Name="DebugLocal" />
+    <BuildType Name="Release" />
+  </Configurations>
+  <Project Path="Application/Application.csproj">
+    <BuildType Solution="DebugLocal|*" Project="Debug" />
+  </Project>
+  <Project Path="Domain/Domain.csproj">
+    <BuildType Solution="DebugLocal|*" Project="Debug" />
+  </Project>
+  <Project Path="Infrastructure/Infrastructure.csproj">
+    <BuildType Solution="DebugLocal|*" Project="Debug" />
+  </Project>
+  <Project Path="OrderManagement/OrderManagement.csproj">
+    <BuildType Solution="DebugLocal|*" Project="Debug" />
+  </Project>
+  <Project Path="ReportService/ReportService.rptproj">
+    <Deploy Solution="Debug|*" />
+    <Deploy Solution="Release|*" />
+  </Project>
 </Solution>

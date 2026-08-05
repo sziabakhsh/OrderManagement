@@ -151,3 +151,7 @@ E:\GitProjects\__Github\OrderManagement\OrderManagement\bin\Debug\net8.0\Infrast
 E:\GitProjects\__Github\OrderManagement\OrderManagement\bin\Debug\net8.0\Application.pdb
 E:\GitProjects\__Github\OrderManagement\OrderManagement\bin\Debug\net8.0\Infrastructure.pdb
 E:\GitProjects\__Github\OrderManagement\OrderManagement\bin\Debug\net8.0\Domain.pdb
+E:\GitProjects\__Github\OrderManagement\OrderManagement\obj\Debug\net8.0\OrderManagement.sourcelink.json
+E:\GitProjects\__Github\OrderManagement\OrderManagement\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.dll
+E:\GitProjects\__Github\OrderManagement\OrderManagement\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+E:\GitProjects\__Github\OrderManagement\OrderManagement\bin\Debug\net8.0\Microsoft.Extensions.Http.dll

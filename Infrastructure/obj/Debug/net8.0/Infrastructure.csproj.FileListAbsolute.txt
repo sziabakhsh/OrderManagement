@@ -17,3 +17,4 @@ E:\GitProjects\__Github\OrderManagement\Infrastructure\obj\Debug\net8.0\Infrastr
 E:\GitProjects\__Github\OrderManagement\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
 E:\GitProjects\__Github\OrderManagement\Infrastructure\bin\Debug\net8.0\Application.dll
 E:\GitProjects\__Github\OrderManagement\Infrastructure\bin\Debug\net8.0\Application.pdb
+E:\GitProjects\__Github\OrderManagement\Infrastructure\obj\Debug\net8.0\Infrastructure.sourcelink.json

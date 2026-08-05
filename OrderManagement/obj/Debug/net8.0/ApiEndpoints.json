@@ -1,1 +1,33 @@
-[]
+[
+  {
+    "ContainingType": "OrderManagement.Controllers.ReportsController",
+    "Method": "ExportCustomerReport",
+    "RelativePath": "api/Reports/customer-performance/export",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "startDate",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      },
+      {
+        "Name": "endDate",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      },
+      {
+        "Name": "region",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "format",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

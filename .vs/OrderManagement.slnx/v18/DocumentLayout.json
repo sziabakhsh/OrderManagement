@@ -3,12 +3,36 @@
   "WorkspaceRootPath": "E:\\GitProjects\\__Github\\OrderManagement\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|e:\\gitprojects\\__github\\ordermanagement\\application\\dtos\\paginatedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\dtos\\paginatedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{993DAC44-957C-11A9-625D-66917B4A7D24}|ReportService\\ReportService.rptproj|E:\\GitProjects\\__Github\\OrderManagement\\ReportService\\CustomerPerformanceReport.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}",
+      "RelativeMoniker": "D:0:0:{993DAC44-957C-11A9-625D-66917B4A7D24}|ReportService\\ReportService.rptproj|solutionrelative:ReportService\\CustomerPerformanceReport.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E56B3E2C-E49C-AA8B-FC33-7582BEADE233}|OrderManagement\\OrderManagement.csproj|e:\\gitprojects\\__github\\ordermanagement\\ordermanagement\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E56B3E2C-E49C-AA8B-FC33-7582BEADE233}|OrderManagement\\OrderManagement.csproj|solutionrelative:ordermanagement\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|e:\\gitprojects\\__github\\ordermanagement\\application\\reports\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\reports\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|e:\\gitprojects\\__github\\ordermanagement\\infrastructure\\ssrsreportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\ssrsreportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|e:\\gitprojects\\__github\\ordermanagement\\infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|e:\\gitprojects\\__github\\ordermanagement\\application\\common\\interfaces\\issrsreportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\common\\interfaces\\issrsreportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E56B3E2C-E49C-AA8B-FC33-7582BEADE233}|OrderManagement\\OrderManagement.csproj|e:\\gitprojects\\__github\\ordermanagement\\ordermanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E56B3E2C-E49C-AA8B-FC33-7582BEADE233}|OrderManagement\\OrderManagement.csproj|solutionrelative:ordermanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|e:\\gitprojects\\__github\\ordermanagement\\application\\dtos\\paginatedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\dtos\\paginatedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|e:\\gitprojects\\__github\\ordermanagement\\domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,43 +55,115 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "CustomerPerformanceReport.rdl [Design]",
+              "DocumentMoniker": "E:\\GitProjects\\__Github\\OrderManagement\\ReportService\\CustomerPerformanceReport.rdl",
+              "RelativeDocumentMoniker": "ReportService\\CustomerPerformanceReport.rdl",
+              "ToolTip": "E:\\GitProjects\\__Github\\OrderManagement\\ReportService\\CustomerPerformanceReport.rdl [Design]",
+              "RelativeToolTip": "ReportService\\CustomerPerformanceReport.rdl [Design]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAD\u002BSURBVFhH7ZcxCsIwFIZfewEnd1vi5KI3cGh7B8FrCB5B8CjWC1gHLyC6SIeW6KK74NznVLCv1TThdZF8kOUPJB/vhZA4QEg8gTRTgQhnxy2moZRPOvcTxPpeiSdQl/smxt1AnBLf79H1VDg0SDyBgcxg7w/p1FcCmcEj3sJlsdSuhEsDU/pRCKP1aoyFe9CpBJvAcTY3kmATeKWpkQSbABhKsAqAgQS7AGhKdCIAGhJs94CK8p6IbvnkM2cRaEO5ZnjNK3t21oK2/J9AILPKUMEuoIsVUAro9lQXpUDXWAFjAa6zYSzAhRWwAvZBUsPkc9qWpp93YwtoxgltwRuuhSzdFEh4hwAAAABJRU5ErkJggg==",
+              "WhenOpened": "2026-08-05T03:27:55.687Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReportsController.cs",
+              "DocumentMoniker": "E:\\GitProjects\\__Github\\OrderManagement\\OrderManagement\\Controllers\\ReportsController.cs",
+              "RelativeDocumentMoniker": "OrderManagement\\Controllers\\ReportsController.cs",
+              "ToolTip": "E:\\GitProjects\\__Github\\OrderManagement\\OrderManagement\\Controllers\\ReportsController.cs",
+              "RelativeToolTip": "OrderManagement\\Controllers\\ReportsController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAACIAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-04T21:56:45.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "E:\\GitProjects\\__Github\\OrderManagement\\Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "E:\\GitProjects\\__Github\\OrderManagement\\Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABgAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-04T21:17:56.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SsrsReportService.cs",
+              "DocumentMoniker": "E:\\GitProjects\\__Github\\OrderManagement\\Infrastructure\\SsrsReportService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\SsrsReportService.cs",
+              "ToolTip": "E:\\GitProjects\\__Github\\OrderManagement\\Infrastructure\\SsrsReportService.cs",
+              "RelativeToolTip": "Infrastructure\\SsrsReportService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-04T21:13:55.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ISsrsReportService.cs",
+              "DocumentMoniker": "E:\\GitProjects\\__Github\\OrderManagement\\Application\\Common\\Interfaces\\ISsrsReportService.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\Interfaces\\ISsrsReportService.cs",
+              "ToolTip": "E:\\GitProjects\\__Github\\OrderManagement\\Application\\Common\\Interfaces\\ISsrsReportService.cs",
+              "RelativeToolTip": "Application\\Common\\Interfaces\\ISsrsReportService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-04T21:12:04.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "PaginatedResult.cs",
               "DocumentMoniker": "E:\\GitProjects\\__Github\\OrderManagement\\Application\\DTOs\\PaginatedResult.cs",
               "RelativeDocumentMoniker": "Application\\DTOs\\PaginatedResult.cs",
               "ToolTip": "E:\\GitProjects\\__Github\\OrderManagement\\Application\\DTOs\\PaginatedResult.cs",
               "RelativeToolTip": "Application\\DTOs\\PaginatedResult.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-31T19:30:14.945Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-31T19:30:14.945Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ReportService.cs",
               "DocumentMoniker": "E:\\GitProjects\\__Github\\OrderManagement\\Application\\Reports\\ReportService.cs",
               "RelativeDocumentMoniker": "Application\\Reports\\ReportService.cs",
               "ToolTip": "E:\\GitProjects\\__Github\\OrderManagement\\Application\\Reports\\ReportService.cs",
               "RelativeToolTip": "Application\\Reports\\ReportService.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAAAAD4AAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAACgAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-31T19:14:33.162Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\GitProjects\\__Github\\OrderManagement\\OrderManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "OrderManagement\\appsettings.json",
+              "ToolTip": "E:\\GitProjects\\__Github\\OrderManagement\\OrderManagement\\appsettings.json",
+              "RelativeToolTip": "OrderManagement\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-04T21:20:10.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Order.cs",
               "DocumentMoniker": "E:\\GitProjects\\__Github\\OrderManagement\\Domain\\Entities\\Order.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\Order.cs",
               "ToolTip": "E:\\GitProjects\\__Github\\OrderManagement\\Domain\\Entities\\Order.cs",
               "RelativeToolTip": "Domain\\Entities\\Order.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAowBQAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA7wBQAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-31T19:14:28.56Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "OrderItem.cs",
               "DocumentMoniker": "E:\\GitProjects\\__Github\\OrderManagement\\Domain\\Entities\\OrderItem.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\OrderItem.cs",
